@@ -17,3 +17,4 @@ How to Use:
 4. Dataset is available in the zip file
    
 This project highlights the use of CNNs in smart city applications, specifically for detecting potholes, and underscores the importance of Explainable AI in understanding model behavior.
+ 
